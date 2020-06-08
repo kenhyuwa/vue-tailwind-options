@@ -3,7 +3,7 @@
 > Select options Tailwind CSS mobile friendly
 
 
-![Dekstop](https://raw.githubusercontent.com/kenhyuwa/vue-tailwind-options/master/desktop.png)
+![Dekstop](https://raw.githubusercontent.com/kenhyuwa/vue-tailwind-options/master/dekstop.png)
 
 ![Mobile](https://raw.githubusercontent.com/kenhyuwa/vue-tailwind-options/master/mobile.png)
 
